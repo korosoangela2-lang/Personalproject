@@ -22,8 +22,8 @@ function App() {
   };
   return (
     <div
-      className="min-h-screen bg-zinc-100  font-sans pb-10"
-      style={{ backgroundColor: "#f5f5f4" }}
+      className="min-h-screen bg-white-100  font-sans pb-10"
+  
     >
       <header className="py-6 border-b border-black mb-8">
         <div className="flex items-center justify-center gap-3">

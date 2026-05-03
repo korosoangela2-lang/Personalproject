@@ -6,7 +6,7 @@ A modern, responsive web application built for a creative agency to showcase the
 
 ##  Live Demo
 
-[View Live App](https://your-live-link-here.com)
+[https://densi-nela.github.io/PortFolio-SPA/](https://densi-nela.github.io/PortFolio-SPA/)
 
 ---
 
@@ -16,7 +16,7 @@ A modern, responsive web application built for a creative agency to showcase the
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Project Listing** — Displays all agency projects with title and description
 - **Add Projects** — A form to dynamically add new projects to the portfolio
@@ -26,7 +26,7 @@ A modern, responsive web application built for a creative agency to showcase the
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - [React](https://react.dev/) — UI library
 - [Vite](https://vitejs.dev/) — Build tool
@@ -34,14 +34,14 @@ A modern, responsive web application built for a creative agency to showcase the
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
 ├── components/
 │   ├── ProjectCard.jsx       # Individual project card
-│   ├── ProjectForm.jsx       # Form to add new projects
-│   └── DisplayProjects.jsx   # Project list with search
+│   ├── ProjectForm.jsx       # Form to add new projec
+│   └── DisplayProjects.jsx   # Project list with searc
 ├── App.jsx                   # Root component
 ├── main.jsx                  # Entry point
 └── index.css                 # Global styles / Tailwind import
@@ -49,7 +49,7 @@ src/
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js installed
@@ -59,12 +59,12 @@ src/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Densi-nela/PortFolio-SPA
 ```
 
 2. Navigate into the project directory
 ```bash
-cd your-repo-name
+cd portfolio.react
 ```
 
 3. Install dependencies
@@ -84,8 +84,8 @@ npm run dev
 ## 👤 Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)  
-Email: your-email@example.com
+GitHub: [Densi-nela](https://github.com/your-username)  
+Email: densinela@gmail.com
 
 ---
 
