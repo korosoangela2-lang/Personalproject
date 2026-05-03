@@ -101,14 +101,14 @@ npm run dev
 
 ---
 
-## 👤 Author
+##  Author
 
 **Your Name**  
-GitHub: [Densi-nela](https://github.com/your-username)  
+GitHub: [https://github.com/your-Densi-nela](https://github.com/your-username)  
 Email: densinela@gmail.com
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
