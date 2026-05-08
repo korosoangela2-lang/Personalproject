@@ -12,7 +12,7 @@ function App() {
     },
     {
       id: 2,
-      title: "E-commerce App",
+      title: "Shopping App",
       description: "Online shop with cart functionality",
     },
   ]);
@@ -28,11 +28,11 @@ function App() {
       <header className="py-6 border-b border-black mb-8">
         <div className="flex items-center justify-center gap-3">
           <div className="w-10 h-10 bg-black text-white flex items-center justify-center rounded-lg font-bold text-lg">
-            P
+            KC
           </div>
           <div>
-            <h1 className="text-2xl font-bold">Pixel & Co.</h1>
-            <p className="text-sm text-gray-500">Showcasing our finest work</p>
+            <h1 className="text-2xl font-bold">K Corp.</h1>
+            <p className="text-sm text-gray-500">showcasing Fashion Designs</p>
           </div>
         </div>
       </header>
