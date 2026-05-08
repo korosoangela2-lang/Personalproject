@@ -6,11 +6,11 @@ A modern, responsive web application built for a creative agency to showcase the
 
 ##Overview
 
-**Pixel&Co.** is a creative agency portfolio web application designed to give agencies a clean, professional platform to present their past and current projects to potential clients and collaborators.
+**K Corp.** is a creative agency portfolio web application designed to give agencies a clean, professional platform to present their past and current projects to potential clients and collaborators.
 
 The application solves a real-world problem faced by creative agencies the need to have a fast, easy-to-update, and visually appealing online presence that doesn't require rebuilding the entire site every time a new project is completed.
 
-With pixel&Co, agency staff can:
+With K.Corp, agency staff can:
 
 - View all existing projects at a glance on the landing page
 - Add new projects instantly through a built-in form without touching any code
@@ -19,15 +19,6 @@ With pixel&Co, agency staff can:
 
 The application was built with simplicity and maintainability in mind. It uses React's component-based architecture to keep the codebase clean and modular, making it easy for any developer to pick up, understand, and extend the project in the future.
 
-## Live Demo
-
-[https://densi-nela.github.io/PortFolio-SPA/](https://densi-nela.github.io/PortFolio-SPA/)
-
----
-
-## Screenshot
-
-![App Screenshot](./screenshot.png)
 
 ---
 
@@ -75,8 +66,6 @@ src/
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/Densi-nela/PortFolio-SPA
 ```
 
 2. Navigate into the project directory
@@ -102,11 +91,7 @@ npm run dev
 ---
 
 ##  Author
-
-**Your Name**  
-GitHub: [https://github.com/your-Densi-nela](https://github.com/your-username)  
-Email: densinela@gmail.com
-
+Angela
 ---
 
 ## License
